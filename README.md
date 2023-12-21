@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gulshannirala
-- 🌱 I’m currently learning java and DS ALGO
-- 📫 How to reach me ....
+ - 📫 How to reach me ....
 mail id:- gulshannirala8292@gmail.com
 
 <!---
